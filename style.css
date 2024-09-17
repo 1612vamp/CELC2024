@@ -9,3 +9,15 @@ p {
 .clovis {
     font-style: italic;
 }
+
+h1 {
+    margin: 10px;
+}
+
+h1 {
+    padding: 2px;
+}
+
+p {
+    font-size: 20px;
+}
